@@ -9,4 +9,5 @@
 
 5.Web Sitelinks：http://ydu.azurewebsites.net
 
-6.
+6.When executed Ydu.sln filel：
+Please unlock the file one, two, three, and after 「Ydu.sln」 file resides in the same directory execution.
